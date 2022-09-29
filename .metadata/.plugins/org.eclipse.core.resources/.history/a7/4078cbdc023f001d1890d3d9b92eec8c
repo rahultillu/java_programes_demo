@@ -1,0 +1,12 @@
+package loops;
+
+public class Dowhileloop_demo {
+	public static void main(String arg[]) {
+		int count = 1;
+		do {
+			System.out.println("count is: "+ count);
+			count++;
+		}while(count < 10);
+	}
+
+}
