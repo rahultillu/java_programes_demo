@@ -26,7 +26,7 @@ public class Array_demo {
 		System.out.println("Element at index 6:" + a[6]);
 		System.out.println("Element at index 7:" + a[7]);
 		System.out.println("Element at index 8:" + a[8]);
-		System.out.println("Element at index 9:" + a[9]);
+		System.out.println("Element at index 9:" + a[0]);
 		
 		//+ we use this for concatint
 		
